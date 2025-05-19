@@ -1,9 +1,9 @@
 {
-    "name": "kamialex/chocolate",
+    "name": "814Kesha/chocolate",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Kamialex\\Chocolate\\": "src/",
+            "814Kesha\\Chocolate\\": "src/",
             "ChocolateLib\\": "src/ChocolateLib/"
         }
     },
