@@ -7,6 +7,6 @@ use ChocolateLib\NewChocolateFabric;
 
 
 $test = new NewChocolateFabric();
-$test->orderSnack("Сникерс");
-$test->orderSnack("Шоколадка");
-$test->orderSnack("Твикс");
+$test->orderSnack("Щедрая душа");
+$test->orderSnack("Аленка");
+$test->orderSnack("Бабаевский");
