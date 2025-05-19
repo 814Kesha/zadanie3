@@ -11,11 +11,11 @@ class NewChocolateFabric extends ChocolateFabric
     public function createSnack(string $type): null|Snack
     {
         switch ($type) {
-            case "Сникерс":
+            case "Щедрая Душа":
                 return new Snickers();
-            case "Твикс":
+            case "Аленка":
                 return new Twix();
-            case "Шоколадка":
+            case "Бабаевский":
                 return new ChocolateBar();
             default:
                 echo 'не существует такого снека';
