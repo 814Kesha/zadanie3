@@ -6,8 +6,8 @@ class ChocolateBar extends Snack
 {
     public function __construct()
     {
-        $this->name = 'Шоколадная баранка';
+        $this->name = 'Шоколад с орехами';
         $this->chocolate = 'Молочный';
-        $this->toppings = ['корица', 'ваниль', 'шоколад'];
+        $this->toppings = ['орех', 'шоколад'];
     }
 }
